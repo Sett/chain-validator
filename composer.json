@@ -1,0 +1,16 @@
+{
+  "name": "funcraft/chain-validator",
+  "description": "Simple chain validator",
+  "authors":[
+    {
+      "name": "Funcraft",
+      "email": "what4me@ya.ru",
+      "role": "developer"
+    }
+  ],
+  "autoload": {
+    "psr4": {
+      "funcraft\\chain\\": ""
+    }
+  }
+}
